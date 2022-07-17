@@ -1,0 +1,23 @@
+{
+  "name": "excelapp",
+  "version": "1.0.0",
+  "description": "pure js excel app",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonKarton91/ExcelApp.git"
+  },
+  "keywords": [
+    "js",
+    "webpack"
+  ],
+  "author": "AntonKarton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonKarton91/ExcelApp/issues"
+  },
+  "homepage": "https://github.com/AntonKarton91/ExcelApp#readme"
+}
